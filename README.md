@@ -64,6 +64,8 @@ pip install numpy pandas scikit-learn xgboost lightgbm matplotlib seaborn
 
 #### **If using Kaggle Notebooks:** Run from the **first cell**.
 
+Upload the dataset to the notebook environment and replace the path in the code. And then run the code.
+
 #### **If using a local machine:** Run from the **second cell** and replace the path to the dataset correctly.
 
 ```python
