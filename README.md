@@ -1,4 +1,4 @@
-# README: Stock Price Prediction Using Boosted Hybrid Model
+# Stock Price Prediction Using Boosted Hybrid Model
 
 ## Project Overview
 
@@ -81,10 +81,9 @@ Execute the script to:
 - Train the **Boosted Hybrid Model** (Sinusoidal Regressor + XGBoost).
 - Evaluate performance using **RMSE, MAE, MAPE, and R² Score**.
 
-### **4. Model Evaluation and Visualization**
+### **4. Model Evaluation**
 
 - Run performance metrics to compare predictions against actual values.
-- Use plots to analyze **residuals, feature importance, and prediction trends**.
 
 ## Limitations & Future Work
 
